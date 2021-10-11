@@ -1,0 +1,15 @@
+C:\Users\ARDA KIRPAN\source\repos\BOY KİLO VÜCUT ENDEKSİ\BOY KİLO VÜCUT ENDEKSİ\bin\Debug\netcoreapp3.1\BOY KİLO VÜCUT ENDEKSİ.exe
+C:\Users\ARDA KIRPAN\source\repos\BOY KİLO VÜCUT ENDEKSİ\BOY KİLO VÜCUT ENDEKSİ\bin\Debug\netcoreapp3.1\BOY KİLO VÜCUT ENDEKSİ.deps.json
+C:\Users\ARDA KIRPAN\source\repos\BOY KİLO VÜCUT ENDEKSİ\BOY KİLO VÜCUT ENDEKSİ\bin\Debug\netcoreapp3.1\BOY KİLO VÜCUT ENDEKSİ.runtimeconfig.json
+C:\Users\ARDA KIRPAN\source\repos\BOY KİLO VÜCUT ENDEKSİ\BOY KİLO VÜCUT ENDEKSİ\bin\Debug\netcoreapp3.1\BOY KİLO VÜCUT ENDEKSİ.runtimeconfig.dev.json
+C:\Users\ARDA KIRPAN\source\repos\BOY KİLO VÜCUT ENDEKSİ\BOY KİLO VÜCUT ENDEKSİ\bin\Debug\netcoreapp3.1\BOY KİLO VÜCUT ENDEKSİ.dll
+C:\Users\ARDA KIRPAN\source\repos\BOY KİLO VÜCUT ENDEKSİ\BOY KİLO VÜCUT ENDEKSİ\bin\Debug\netcoreapp3.1\BOY KİLO VÜCUT ENDEKSİ.pdb
+C:\Users\ARDA KIRPAN\source\repos\BOY KİLO VÜCUT ENDEKSİ\BOY KİLO VÜCUT ENDEKSİ\obj\Debug\netcoreapp3.1\BOY_KİLO_VÜCUT_ENDEKSİ.Form1.resources
+C:\Users\ARDA KIRPAN\source\repos\BOY KİLO VÜCUT ENDEKSİ\BOY KİLO VÜCUT ENDEKSİ\obj\Debug\netcoreapp3.1\BOY KİLO VÜCUT ENDEKSİ.csproj.GenerateResource.cache
+C:\Users\ARDA KIRPAN\source\repos\BOY KİLO VÜCUT ENDEKSİ\BOY KİLO VÜCUT ENDEKSİ\obj\Debug\netcoreapp3.1\BOY KİLO VÜCUT ENDEKSİ.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ARDA KIRPAN\source\repos\BOY KİLO VÜCUT ENDEKSİ\BOY KİLO VÜCUT ENDEKSİ\obj\Debug\netcoreapp3.1\BOY KİLO VÜCUT ENDEKSİ.AssemblyInfoInputs.cache
+C:\Users\ARDA KIRPAN\source\repos\BOY KİLO VÜCUT ENDEKSİ\BOY KİLO VÜCUT ENDEKSİ\obj\Debug\netcoreapp3.1\BOY KİLO VÜCUT ENDEKSİ.AssemblyInfo.cs
+C:\Users\ARDA KIRPAN\source\repos\BOY KİLO VÜCUT ENDEKSİ\BOY KİLO VÜCUT ENDEKSİ\obj\Debug\netcoreapp3.1\BOY KİLO VÜCUT ENDEKSİ.csproj.CoreCompileInputs.cache
+C:\Users\ARDA KIRPAN\source\repos\BOY KİLO VÜCUT ENDEKSİ\BOY KİLO VÜCUT ENDEKSİ\obj\Debug\netcoreapp3.1\BOY KİLO VÜCUT ENDEKSİ.dll
+C:\Users\ARDA KIRPAN\source\repos\BOY KİLO VÜCUT ENDEKSİ\BOY KİLO VÜCUT ENDEKSİ\obj\Debug\netcoreapp3.1\BOY KİLO VÜCUT ENDEKSİ.pdb
+C:\Users\ARDA KIRPAN\source\repos\BOY KİLO VÜCUT ENDEKSİ\BOY KİLO VÜCUT ENDEKSİ\obj\Debug\netcoreapp3.1\BOY KİLO VÜCUT ENDEKSİ.genruntimeconfig.cache
